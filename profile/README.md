@@ -6,10 +6,13 @@ This is my space that allows me navigation through archival university projects.
 
 **Object-oriented programming II (Java)**
 - [Bank](https://github.com/skamila-university-projects/Bank)
-- [Tetris](https://github.com/skamila-university-projects/Tetris)
+- [Tetris](https://github.com/skamila/Tetris)
 
 **Human-Computer Communication**
 - [RubiksCube](https://github.com/skamila-university-projects/RubiksCube)
+
+**Competence Project I**
+- [Project](https://github.com/pelekon/ProjektKompetentcyjny)
 
 **Software Testing Methods**
 - [lab_0](https://github.com/skamila-university-projects/lab_0)
@@ -39,13 +42,19 @@ This is my space that allows me navigation through archival university projects.
 **Network Programming**
 - [Chat](https://github.com/skamila-university-projects/Chat/)
 
+**Software Projects Management**
+- [Project](https://github.com/IIS-ZPI/ZPI_2019_Dzienni_IO1_Grupa2)
+
 **Programming for Code Reuse**
 - [RevService](https://github.com/skamila-university-projects/RevService/)
 - [Validator](https://github.com/skamila-university-projects/Validator/)
-- [VCart](https://github.com/skamila-university-projects/VCart/)
+- [VCard](https://github.com/skamila-university-projects/VCard/)
 
 **Advanced Mobile Applications**
 - [FixMyHydrant](https://github.com/skamila-university-projects/FixMyHydrant/)
+
+**Programming of Web Applications**
+- [Project](https://github.com/pelekonuniproj/PawWeb)
 
 **Final Project**
 - [CornealEndotheliumSegmentator](https://github.com/skamila-university-projects/CornealEndotheliumSegmentator/)
@@ -57,6 +66,10 @@ This is my space that allows me navigation through archival university projects.
 
 **Application containers for Java EE platform && Application integration and testing**
 - [Project and tasks](https://github.com/skamila-university-projects/KAPJ/)
+
+**Team project**
+- [Backend](https://github.com/Zandros229/PZ_BACKEND)
+- [Frontend](https://github.com/Zandros229/PZ_ANDROID)
 
 **Capturing Data on Java EE Platform**
 - [Document](https://github.com/skamila-university-projects/Document/)
